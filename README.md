@@ -5,7 +5,7 @@ A curated list of resources for Frontend development
 
 # Introduction
 
-[![Follow me](https://img.shields.io/twitter/follow/codingknite.svg?style=for-the-badge)](https://twitter.com/codingknite)
+[![Follow me](https://img.shields.io/twitter/follow/photon1006.svg?style=for-the-badge)](https://twitter.com/photon1006)
 
 This is a collection of resources for Frontend development.
 
